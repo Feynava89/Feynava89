@@ -6,7 +6,6 @@
 - 🎓 Estudiante de Ingeniería en Inteligencia Artificial
 - 🤝 Busco colaborar en proyectos Open Source.
 - 📫 Contacto: mariafeynava89@gmail.com
-- 📫 How to reach me: ...
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
