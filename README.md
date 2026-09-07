@@ -1,11 +1,21 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,50:7B2CBF,100:1565C0&height=220&section=header&text=Hi,%20I'm%20an%20Artificial%20Intelligence%20Engineer.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+###  Artificial Intelligence • Machine Learning • Web developer
+
+</div>
+
+<br><br>
 
 
-# ¡Hola! 👋 Soy Fernanda Nava
-## 🚀 Sobre mí
 
-- 🎓 Estudiante de Ingeniería en Inteligencia Artificial
-- 🤝 Busco colaborar en proyectos Open Source.
-- 📫 Contacto: mariafeynava89@gmail.com
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
