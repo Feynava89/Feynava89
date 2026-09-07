@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,50:7B2CBF,100:1565C0&height=220&section=header&text=Hi,%20I'm%20an%20Artificial%20Intelligence%20Engineer.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000CD,0:6495ED,100:0000FF&height=220&section=header&text=Hi,%20I'm%20an%20Artificial%20Intelligence%20Engineer.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 </div>
 
@@ -13,6 +13,10 @@
 </div>
 
 <br><br>
+
+<div align="center">
+<img src="./Snopy.jpg" width="70%"> 
+</div>
 
 
 
